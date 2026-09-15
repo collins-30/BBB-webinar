@@ -10,7 +10,7 @@ export default function HeroVideo() {
         transition={{ duration: 0.5 }}
         className="font-display uppercase text-[2.7rem] leading-[0.95] text-white"
       >
-        Transform your body in 90 days
+        Transform your body in 6 weeks 
       </motion.h1>
 
       <p className="mt-3 text-neutral-400 text-sm">

@@ -5,7 +5,7 @@ export default function LogoBar() {
     <header className="sticky top-0 z-40 bg-neutral-950/80 backdrop-blur-md border-b border-white/5">
       <div className="mx-auto max-w-md px-5 py-3 flex items-center justify-between">
         <Image
-          src={`${import.meta.env.VITE_SUPABASE_URL}/storage/v1/object/public/site-assets/logo.png`}
+          src={`${import.meta.env.VITE_SUPABASE_URL}/storage/v1/object/public/site-assets/logo.jpg`}
           alt="BuildByBeetseh"
           className="h-12 w-12"
           fittingType="fit"
